@@ -1,4 +1,12 @@
- font-family: 'Georgia', 'Times New Roman', Times, serif;
+body {
+    color: fuchsia;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(opice.jpg);
+    background-size: cover;
+}
+.Nadpis {
+    color: blue;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 .Nadpis2 {
