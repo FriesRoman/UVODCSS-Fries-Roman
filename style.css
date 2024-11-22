@@ -1,12 +1,4 @@
-body {
-    color: blanchedalmond;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url(opice.jpg);
-    background-size: contain;
-}  
-.Nadpis {
-    color: beige;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
+ font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 .Nadpis2 {
@@ -36,7 +28,7 @@ body {
 }
 
 .piti {
-    list-style-type: square; 
+    list-style-image: url(th.jpg);
 }
 .piti li.cola {
     color: purple; 
